@@ -16,6 +16,6 @@ elif player == "rock" and opponent=="paper":
     print("You lost")
 elif player == "paper" and opponent=="scissor":
     print("You lost")
-elif splayer == "scissor" and opponent=="rock":
+elif player == "scissor" and opponent=="rock":
     print("You lost")
 else: print("Draw")
